@@ -1,0 +1,14 @@
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\bin\Debug\net6.0\EFramework01.Data.deps.json
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\bin\Debug\net6.0\EFramework01.Data.runtimeconfig.json
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\bin\Debug\net6.0\EFramework01.Data.dll
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\bin\Debug\net6.0\EFramework01.Data.pdb
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.csproj.AssemblyReference.cache
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.AssemblyInfoInputs.cache
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.AssemblyInfo.cs
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.csproj.CoreCompileInputs.cache
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.dll
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\refint\EFramework01.Data.dll
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.pdb
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\EFramework01.Data.genruntimeconfig.cache
+C:\ProyectosCSharp\EFramework01\EFramework01\EFramework01.Data\obj\Debug\net6.0\ref\EFramework01.Data.dll
